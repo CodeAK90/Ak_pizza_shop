@@ -1,4 +1,4 @@
-# 🍕 AK Pizza Shop - Meethapur (Online Ordering & UPI Payment)
+# 🍕 AK Pizza Shop 
 
 A modern, fast-food ordering web application designed for **AK Pizza Shop** located in Meethapur, New Delhi. Features hand-tossed artisanal pizzas, burgers, sides, drinks, interactive cart with free delivery progress meter, and direct **UPI payment gateway (GPay, PhonePe, Paytm, QR, UTR verification)** with WhatsApp order integration.
 
