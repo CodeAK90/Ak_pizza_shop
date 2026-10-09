@@ -1,0 +1,6 @@
+{
+  "name": "AK Pizza Shop - Meethapur",
+  "description": "Hot, fresh and cheesy pizzas, burgers, and fast bites in Meethapur, New Delhi with instant UPI and COD payment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
